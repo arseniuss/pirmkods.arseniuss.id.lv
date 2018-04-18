@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "flos ekspimentālās operētājsistēmas izstrādes atsākšana"
+title: "flos eksperimentālās operētājsistēmas izstrādes atsākšana"
 category: flos
 disqus: true
 excerpt_separator: <!--more-->
