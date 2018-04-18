@@ -725,6 +725,10 @@ margin on the iframe, cause it breaks stuff. */
     hyphens: auto;
 }
 
+.post-content p {
+    text-indent: 2em;
+}
+
 /* Add a little circle in the middle of the border-bottom on our .post
    just for the lolz and stylepoints. */
 .post:after {
@@ -756,6 +760,7 @@ body:not(.post-template) .post-title {
     margin: 0;
     font-size: 0.9em;
     line-height: 1.7em;
+    text-indent: 2em;
 }
 
 .read-more {
