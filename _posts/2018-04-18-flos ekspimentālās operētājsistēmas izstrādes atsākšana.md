@@ -72,6 +72,4 @@ C valodā nav vārdtelpas (angl. _namespaces_), bet es varu linkošanas laikā m
 
 Domāju, ka tērēšu savus spēkus uz kompilatora izveidošanu ar visām nepieciešamībām, lai caur `chroot` varētu imitēt visu, ko man vajag!
 
-Redzēs!vajag!
-
 Redzēs!
