@@ -3,7 +3,7 @@ description: Meklējot jaunus veidus, kā uzspridzināt savu datoru
 meta_description: "Meklējot jaunus veidus, kā uzspridzināt savu datoru"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 5
 baseurl: '/'
